@@ -9,4 +9,8 @@
 - Refactoring To Model Methods
 
 How to run it:
-- npm i express ejs mongoose bcrypt express-session
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
